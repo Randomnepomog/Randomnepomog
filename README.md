@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Randomnepomog
-- 👀 I’m interested in ...
+- 👀 I’m interested in DS, ML, NLP
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Randomnepomog in telegram
 
 <!---
